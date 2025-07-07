@@ -1,16 +1,21 @@
-## Hi there 👋
+Hi there
 
-<!--
-**yghorgb/yghorgb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/yghor-gabriel/) or Discord(Yghor#2769)
+- 🏳️‍⚧️ Pronouns: He/Him Ele/Dele
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<hr>
+<p align="center">
+  <i>Take a look at my repositories and let's get in touch!</i>
+</p>
+
+<p align="center">
+  </a>
+  <a href= "https://github.com/yghorgb/">
+    <img width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+  </a>
+  <a href="https://www.linkedin.com/in/yghor-gabriel/">
+    <img width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+  </a>
+</p>
